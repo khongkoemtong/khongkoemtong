@@ -24,7 +24,7 @@
 
   
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=linux,debian" />
+    <img src="https://skillicons.dev/icons?i=debian" />
 
 </p>
 
