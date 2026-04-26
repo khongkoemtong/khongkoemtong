@@ -20,7 +20,11 @@
 ### 🧠 Programming & Networking
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,java" />
+   
+
+  
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+   <img src="https://images.teepublic.com/derived/production/designs/3541864_0/1542726890/i_p:c_000000,s_630,q_90.jpg" />
 </p>
 
 ### 🧰 Tools & Platforms
